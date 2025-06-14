@@ -37,7 +37,7 @@ A command-line based To-Do List application written in Java. It allows users to 
 
 Follow the menu to interact with the application.
 
-📝 Sample Menu
+Sample Menu
 
 To-Do List Application
 1. Add Task
